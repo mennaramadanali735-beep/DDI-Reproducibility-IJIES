@@ -1,0 +1,15 @@
+# Complete direct runtime dependencies; unrecorded historical versions are not invented.
+# Install this in a dedicated environment and freeze after validation.
+lightgbm==4.6.0
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+joblib
+psutil
+rdkit
+IPython
+jupyter
+matplotlib
+openpyxl

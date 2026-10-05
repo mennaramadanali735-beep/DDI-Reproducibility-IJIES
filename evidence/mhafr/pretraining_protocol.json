@@ -1,0 +1,18 @@
+{
+  "source_commit": "92964ff7696ca6fdba5c8496fbc9a3212cbb5eb1",
+  "feature_folder": "/kaggle/working/DDI_COLD_RESTORED_20260909_075707_227342/mhafr_molecular_inputs_20260909_080922_195417",
+  "molecular_split_seed": 42,
+  "pretrain_drugs": 864,
+  "pretrain_validation_drugs": 216,
+  "model_seeds": [
+    42,
+    43,
+    44
+  ],
+  "source_scope": "classifier_training_drugs_only",
+  "selection_policy": "finite_3d_with_converged_MMFF94",
+  "vocabulary_policy": "fixed_official_external_vocabulary",
+  "split_sha256": "482eb59ceacf43aecbabcbe4b37971e8993c6c561ea9dcebf0e1421b90498008",
+  "input_manifest_sha256": "bcc0303aa787414ef0a7468ebff04546e49296d514231fcd60a859535646ddfd",
+  "classification_splits_changed": false
+}

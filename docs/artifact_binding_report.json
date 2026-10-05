@@ -1,0 +1,11 @@
+{
+  "final_label_order_equals_threshold_label_order": true,
+  "historical_mapping_differing_positions": 49,
+  "threshold_table_and_arrays_equal": true,
+  "saved_test_predictions_reconstructed_exactly": true,
+  "probability_shapes_and_ranges_valid": true,
+  "historical_mhafr_vocabulary_hashes_match": true,
+  "test_row_identity_verified_against_ground_truth": false,
+  "test_metrics_recomputed_from_ground_truth": false,
+  "training_executed": false
+}

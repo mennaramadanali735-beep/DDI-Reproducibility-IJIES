@@ -1,0 +1,18 @@
+{
+  "official_commit": "92964ff7696ca6fdba5c8496fbc9a3212cbb5eb1",
+  "drugs": 1660,
+  "train_3d_drugs": 1080,
+  "classes": 84,
+  "max_1d_tokens": 50,
+  "graph_atoms_truncated": false,
+  "atom_order": "original_SMILES_parse_order",
+  "vocabulary_policy": "fixed_official_external_vocabulary",
+  "vocabulary_sha256": "27140b911773852cc106337499df351cd46907a1d2c3ba1cdde3c87f17d33bad",
+  "token_mapping_sha256": "c9ce17db965b49f17d2ac42c5a00eb3b9b066e62e603a2ca6bd3ffb94e6c4ae9",
+  "source_split_sha256": {
+    "train": "7af597d907750cdacc996356950ceb0b322068dfe83f37267a8a600a190335c7",
+    "calibration": "cfe2fb5630257e14c2a0af8d059398f2beb54ab9fb82b8959a85ba7b58b42c28",
+    "test": "f996d96704484f64558ee4ecdbcfd57fc16f7851cea87b516b3a3f5bb53716d4"
+  },
+  "training_performed": false
+}

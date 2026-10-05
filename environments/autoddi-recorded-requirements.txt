@@ -1,0 +1,11 @@
+# Exact recorded core packages; install CUDA wheels from their matching indexes.
+torch==2.10.0+cu128
+torch-geometric==2.8.0.post1
+torch-scatter==2.1.2+pt210cu128
+torch-sparse==0.6.18+pt210cu128
+numpy==2.0.2
+scikit-learn==1.6.1
+# Required additional dependencies whose versions were not recorded in these configs:
+pandas
+tqdm
+rdkit

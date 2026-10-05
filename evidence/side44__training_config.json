@@ -1,0 +1,32 @@
+{
+  "seed": 44,
+  "final_unique_263": true,
+  "label_count": 263,
+  "interaction_classes": 84,
+  "feature_dimension": 4096,
+  "lightgbm_version": "4.6.0",
+  "python_version": "3.13.15",
+  "parameters": {
+    "n_estimators": 500,
+    "learning_rate": 0.05,
+    "num_leaves": 63,
+    "min_child_samples": 30,
+    "subsample": 0.85,
+    "subsample_freq": 1,
+    "colsample_bytree": 0.85,
+    "reg_lambda": 1.0,
+    "objective": "binary",
+    "n_jobs": 2,
+    "verbosity": -1
+  },
+  "early_stopping_rounds": 50,
+  "class_weight_formula": "sqrt((train_negatives + 1) / (train_positives + 1))",
+  "label_seed_rule": "seed + label_id",
+  "calibration_used_for_early_stopping": true,
+  "test_used_for_training": false,
+  "replacement_labels": [
+    "anaphylaxis",
+    "hyperglycemia",
+    "tinnitus"
+  ]
+}

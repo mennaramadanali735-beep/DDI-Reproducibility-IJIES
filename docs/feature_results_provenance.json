@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "path": "artifacts/feature_ablation/morgan_only_seed_42.json",
+      "sha256": "52b10aaae518e04b9df952bc42357fb252d58702078c76f74a9af759f32b8c49"
+    },
+    {
+      "path": "artifacts/feature_ablation/morgan_only_seed_44.json",
+      "sha256": "106472ee506b080e56eaa020a2319d1fdab9a476f3731d65aead634b57689093"
+    },
+    {
+      "path": "artifacts/feature_ablation/morgan_only_seed_43.json",
+      "sha256": "2a40cd5a8666adf8b9ba0186add3b61b3f4a6b74bfb1285b0e70de79ac458391"
+    },
+    {
+      "path": "artifacts/feature_ablation/rdkit_only_all_seed_results.csv",
+      "sha256": "e9920b5afcedfa247cb656b9acd0513bde9cba000595481f9a6b50cf7f710077"
+    },
+    {
+      "path": "artifacts/feature_ablation/morgan_rdkit_all_seed_results.csv",
+      "sha256": "3c28d588ab6d22bcf1edd6d64c390b1dfca5937e1d473f859398843e4df9afea"
+    }
+  ],
+  "morgan_csv": "Derived from the three preserved original JSON files, sorted by seed",
+  "reported_metrics": "Test accuracy, macro84, weighted F1",
+  "fresh_inference": false
+}

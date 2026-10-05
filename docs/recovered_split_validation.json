@@ -1,0 +1,18 @@
+{
+  "side_train_raw_sha256_verified": true,
+  "scaffold_archive_common_files_identical": true,
+  "scaffold_saved_csv_hashes_verified": true,
+  "feature_archive_hashes_verified": true,
+  "feature_pair_order_equals_splits": true,
+  "summary_six_runs_mean_sample_sd_verified": true,
+  "summary_prediction_files_available": false,
+  "new_training_or_inference": false,
+  "raw_molecular_rows_published": false,
+  "scaffold_molecules_recomputed_with_rdkit": false,
+  "source_archives": {
+    "train_rows (1).rar": "5013956dbbc0ef8643c17b067e33098a88be7cba6f4b9d8d86aaec91d30f4651",
+    "DDI_SCAFFOLD_NONCHIRAL_RECONSTRUCTED_20260921_190107_430125.zip": "919a3938c273752eb6da4fa1b98e9358101deab0b21abdf2fc0e2b7e462720bd",
+    "DDI_SCAFFOLD_NONCHIRAL_RECONSTRUCTED_20260921_190107_430125_WITH_FEATURES.zip": "bb59a53ee97a54a5a6f2c60002955580e1f07fd85f4ff8ef7daa5dae7aef1b05",
+    "FINAL_SCAFFOLD_3SEED_SUMMARY.zip": "80943106b306eead828232bf27a72c5034da2ac9ea172cc91e22f53406843892"
+  }
+}

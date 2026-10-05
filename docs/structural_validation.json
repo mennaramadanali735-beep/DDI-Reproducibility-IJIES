@@ -1,0 +1,6 @@
+{
+  "historical_code_cells_compared": 287,
+  "structure_or_numeric_constant_changes": [],
+  "comparison": "AST comparison after normalizing string literals; ignores comments, diagnostic text and whitespace. The one documented historical syntax repair is applied to the comparison input.",
+  "model_execution_performed": false
+}

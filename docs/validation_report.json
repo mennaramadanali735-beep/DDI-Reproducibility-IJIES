@@ -1,0 +1,11 @@
+{
+  "notebooks_checked": 28,
+  "code_cells_checked": 100,
+  "python_files_checked": 67,
+  "syntax_errors": [],
+  "saved_topology_summary_recomputed": true,
+  "recorded_calibration_differences_checked": true,
+  "training_executed": false,
+  "checkpoint_inference_executed": false,
+  "end_to_end_reproduction_executed": false
+}

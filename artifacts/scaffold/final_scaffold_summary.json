@@ -1,0 +1,58 @@
+{
+  "protocol": "both_nonchiral_scaffolds_unseen",
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "n_seeds": 3,
+  "test_rows_per_seed": 11142,
+  "test_observed_classes": 56,
+  "total_class_space": 84,
+  "statistics": "Arithmetic mean and sample standard deviation (ddof=1)",
+  "linear_mlp": {
+    "cal_macro83": {
+      "mean": 0.9544305529143325,
+      "sample_sd": 0.0007283045234835509
+    },
+    "test_accuracy": {
+      "mean": 0.42963561299587144,
+      "sample_sd": 0.0024132704469123525
+    },
+    "test_macro56": {
+      "mean": 0.26569470719003835,
+      "sample_sd": 0.0077067529936773235
+    },
+    "test_macro84": {
+      "mean": 0.1771298047933589,
+      "sample_sd": 0.005137835329118188
+    },
+    "test_weighted_f1": {
+      "mean": 0.4039296242851198,
+      "sample_sd": 0.0032801607053628817
+    }
+  },
+  "graph": {
+    "cal_macro83": {
+      "mean": 0.9290742989519495,
+      "sample_sd": 0.0016995841928146979
+    },
+    "test_accuracy": {
+      "mean": 0.20720397295518458,
+      "sample_sd": 0.01582063020960305
+    },
+    "test_macro56": {
+      "mean": 0.023367724768363945,
+      "sample_sd": 0.0026263004228061957
+    },
+    "test_macro84": {
+      "mean": 0.015578483178909294,
+      "sample_sd": 0.0017508669485374665
+    },
+    "test_weighted_f1": {
+      "mean": 0.1747188221248981,
+      "sample_sd": 0.014057657706682075
+    }
+  },
+  "interpretation_note": "Under this controlled both-nonchiral-scaffolds-unseen protocol, the topology-free Linear MLP achieved higher held-out scaffold test metrics than the Graph GCN across all three matched seeds. This is protocol-specific and should not be generalized beyond this evaluation setting."
+}

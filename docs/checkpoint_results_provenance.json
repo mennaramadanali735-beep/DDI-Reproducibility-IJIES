@@ -1,0 +1,19 @@
+{
+  "source_file": "all_seed_checkpoint_selection_results.csv",
+  "sha256": "f8f882639a86095ea85a47b1a3fdb7747e313964b1974dc8dff73ef960da6c32",
+  "rows": 9,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "selection_dataset": "Calibration",
+  "reported_dataset": "Test",
+  "metric_mapping": {
+    "test_accuracy": "accuracy",
+    "test_macro84": "macro_f1",
+    "test_weighted_f1": "weighted_f1"
+  },
+  "aggregation": "mean and sample standard deviation (ddof=1), fractions",
+  "fresh_inference": false
+}

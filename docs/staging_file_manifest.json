@@ -1,0 +1,788 @@
+[
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/REPORTING_FILES_FROM_HANDOFF.zip",
+    "drive_id": "199hz9oKxiwEDy78l2YuJBkn0r1nJnN-A",
+    "sha256": "f9d2e8ed6ffdc6a2d0452a3b4ab63298356e6ca40454dcc3f7a5577ddb2101e7",
+    "size": 1315924
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/morgan__evaluation_spec.json",
+    "drive_id": "1UrP30yuGxatr1cfafHlKFvosK99Itmhx",
+    "sha256": "1bf076ae050403264d2a4461433abe0c48b8a7c829869c9736f8c0a6e9b11bb9",
+    "size": 2523
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/morgan__all_seed_test_results.csv",
+    "drive_id": "1pRuFQzY7qOWEiBW2cRFlUdkNgPk1I80w",
+    "sha256": "8313e7e4a261264c22f7d41b231aea939581a86af49295cc1849288369980c4d",
+    "size": 246
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/morgan__three_seed_test_mean_sd.csv",
+    "drive_id": "1yW-uYJTOmVQVGC4sZA7RfHCk91cUk8-R",
+    "sha256": "0ebe2e4236f2c7d251a202bf83dc379824747adae0a04ed17cf0f199b8a157b4",
+    "size": 267
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/side_three_seed__calibration_summary_3seeds.csv",
+    "drive_id": "1xhKUtN0OLVafvUbjvMIQWnPQ7L0Tvx_e",
+    "sha256": "4f91cdb59a5a00448265a841a7a87e22e857a1edc14bee22a2ca12dc5d1608fe",
+    "size": 983
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/side_three_seed__test_results_3seeds.csv",
+    "drive_id": "1xLzTKdSar8keh7g7Cm1xUeh4_EdJ09r7",
+    "sha256": "82f459510fd771f61bdbc5b178c72412ebb28c19ecbec1456dc2308fefe272be",
+    "size": 892
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/side_three_seed__replacement_labels_test_results.csv",
+    "drive_id": "1O2A2iuq_63ML7gkwM3DK7Cf7rdBIKZdq",
+    "sha256": "8055d2c112791a62dd268162da1256753deafa743163bc066ec936fcbe3b80d1",
+    "size": 697
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/side_three_seed__FINAL_metrics_mean_sd.csv",
+    "drive_id": "1XYd0fF_enpYm-1gK_uvVPJ9hiyijKG7r",
+    "sha256": "814d1d2ee8ffa76cc74f5f2b66cb36aef95a3de7963f48973797fa91685a6979",
+    "size": 820
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/side_three_seed__FINAL_evaluation_protocol.json",
+    "drive_id": "16_wmKEHIiAy_iyaV280-klPumKda_OC7",
+    "sha256": "9ee96724819dd44d038de57e18e1a9e3213e0658de6e751182c620a74e6abfa1",
+    "size": 779
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/ensemble_calibration_probabilities.npy",
+    "drive_id": "17qxzetZsPbuH9U94_O3rGMsQgj0FIek7",
+    "sha256": "47cce5659071c319cf27d87750991b603c7023ae15318e39223acd17568c2ca8",
+    "size": 30264064
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/ensemble_test_probabilities.npy",
+    "drive_id": "1S3NQyeTVVoEEEeCvrbvl4NSl2U6NmuRQ",
+    "sha256": "df8f72ded7e5159987f5d20df4d508b43c2ca8e43a40cd6fdd0587106144f258",
+    "size": 30264064
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/global_threshold_search.csv",
+    "drive_id": "1xMvXNZY6t6W1TjvT6sgsj0Zr7dOosSnw",
+    "sha256": "4b20b14ef5e99729b3b89e0e993e319216980e407e8e53d4624fa119454e6082",
+    "size": 5018
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/ensemble_per_label_thresholds.csv",
+    "drive_id": "1i6vgQeT526XUEa3eacjVz29gpKC2YTsC",
+    "sha256": "262a7d37579800c09138e25a50597f4666a0bc7eac11bb50b130c53f7989d9a4",
+    "size": 16972
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/ensemble_per_label_thresholds.npy",
+    "drive_id": "1wof4Gduz2gUME8gQDf7BlOQKkCPTXnbw",
+    "sha256": "c1ad57d591981563ac56ca70e5d0b94361e06f562827c2f243cd8f291d7d0d95",
+    "size": 1180
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/FINAL_ensemble_thresholds.npy",
+    "drive_id": "1-JJmGyYnjP01PT-JMkaQetlI_RMgdLCe",
+    "sha256": "c1ad57d591981563ac56ca70e5d0b94361e06f562827c2f243cd8f291d7d0d95",
+    "size": 1180
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/FINAL_ensemble_test_predictions.npy",
+    "drive_id": "1aHpSyA0qjBzACdJf6iQjMuqMvSfUFjei",
+    "sha256": "4d05d8cfeef8140bd08da34950464853c5b91cf3c0789434c2d55b582bbaad47",
+    "size": 7566112
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/FINAL_ensemble_summary.json",
+    "drive_id": "1tkyteZDczuB94J6MPACPIM-xF3aY_121",
+    "sha256": "f76c7686128e7aa250087bb843e2bd0343b1bdab48ae65022bc8c384f491c944",
+    "size": 712
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_42_predictions.npy",
+    "drive_id": "1ybug0uVfNwff8sdGYCUaaAsjucwWqNRz",
+    "sha256": "62a1f7b5eb5651d6ee40493390c0127c720cfe07a226e1d2eb5797714db318c1",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_42_metrics.json",
+    "drive_id": "1ow2fkzC1Z7dG8oAouLmNZJ6M_gRVLvMT",
+    "sha256": "29cb95bfafeec946aaf4a21767b36149e9edd89b28cdf89379ce5a5be35c4f61",
+    "size": 848
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_43_predictions.npy",
+    "drive_id": "1I5TfMiuJVL8YQC98wdI7YBx0jrjk8AAN",
+    "sha256": "5b4e3626eac52514f866bc8dfbb28e78a7b64e27b20dc9ea0c5b92e6f3366517",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_43_metrics.json",
+    "drive_id": "15O93wggK8QTVIwpgSImJcN3ivt7rw9wV",
+    "sha256": "f28b9b660cd5925ffe6b751013a814a56c43f534b09c8e878a22a2e2d6ddb172",
+    "size": 848
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_44_predictions.npy",
+    "drive_id": "1UgT5GzKybaZDeKi98Yj0xdyJy8qB1IUz",
+    "sha256": "47952ecdd353d8f892d7a832557b2f01661a4b32e46a553008cd30e64b63cf51",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/original_seed_44_metrics.json",
+    "drive_id": "1d56bxEpAJdoDGR8_xFyUUwiyH8IB8-Xr",
+    "sha256": "a2ad77d021eae986f87db8f5164230862f53fda45240fde6e3925fbb4d433b4e",
+    "size": 847
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_42_predictions.npy",
+    "drive_id": "1CaUSaJRRJc579zrSIIg404rDEikPLPdq",
+    "sha256": "62b72220f43968aba25ba67ebbbb150865ced8d1ffecd053a6b3d50e27246bd9",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_42_metrics.json",
+    "drive_id": "1ejmyHlW2YoaTs24r40JPaZUF3uEvIQ6M",
+    "sha256": "01071b77c487630f54add75fbccb310f428e8a6ea4a8542f60a4405952484691",
+    "size": 847
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_43_predictions.npy",
+    "drive_id": "1EVnZk2Hb1tdoO71GeSxsTEjYe6-GpSdD",
+    "sha256": "2cbdf811ddcdf1c52da50efae5c884702550df32098ea3c63c4e4eb1c6c4fc4c",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_43_metrics.json",
+    "drive_id": "133CWajdAv7Sk2481JZ1Kbwco-ug_IH3F",
+    "sha256": "d6764daa926ffd73e03e354408daf55ba07889e3598f87d0c9b0974a2239f83b",
+    "size": 847
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_44_predictions.npy",
+    "drive_id": "1GH36TRPLY3pKcmdrfmiBjswnfE2dQJHX",
+    "sha256": "f39dd9fcf11437bb142f1ca98cfeb863f39e68a597c65d875391f2a6ceb43d72",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/rewired_seed_44_metrics.json",
+    "drive_id": "1yQC9mMVpoYaypMVmXCq4A5AEFHVQZNwf",
+    "sha256": "9bd1aa4a39e046a7a2fa6e17a6793cb224f845c5f9b561020c09240a8fa65179",
+    "size": 846
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_42_predictions.npy",
+    "drive_id": "1JUF2vikV1gi0uLtKxFSkCInXDKfCPV62",
+    "sha256": "11834822017ca999ff9062e1f7af2a37edc907fc777ee6ee6ea6b1c0fea4877f",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_42_metrics.json",
+    "drive_id": "1w5HlvkHKN223CWfItjGgrcc9vmTe8yNE",
+    "sha256": "318c714796e5d17bd1d80dc9b80523b53b4b0c43b5ab37e5d7c2700f18f22214",
+    "size": 855
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_43_predictions.npy",
+    "drive_id": "1L7IMq7VTBXa7Jd7OJH_NHpk1xFFuahOz",
+    "sha256": "ed76509253be58e520942e1af2af263e797fb5ac6440440021d4e088a558399a",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_43_metrics.json",
+    "drive_id": "1pIjA3CoJMzPcJj4acoqQj5_MzykhrvB3",
+    "sha256": "c7d20deb201b9332f4823ad636ae9f3c10a4f7c0f8b05c4c12e183d70be8fdce",
+    "size": 855
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_44_predictions.npy",
+    "drive_id": "1tDiSy-jPlq5Bx40bmZ6sAaeCdJ9j8TRP",
+    "sha256": "370825c922d324725578e884135d0b015cdf5cabc0d2f4ab729a4ea1c50da330",
+    "size": 230272
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/self_loops_only_seed_44_metrics.json",
+    "drive_id": "17-YKaxLoAfCEZVVvw08oIbZHO5BUr4sN",
+    "sha256": "69ccf820e0f50f16059ab4a1ec1ea3727ebb958b8d2a69eec427f799e1561982",
+    "size": 854
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__SELECTED_CHECKPOINTS.json",
+    "drive_id": "1bu0KyUHsBD_JMObrqhvAw9DtajJGkv-P",
+    "sha256": "e9573030d379ecb61f66239ae2ebca513073d6b72f24ba2c70ea26f649009380",
+    "size": 6090
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__CALIBRATION_REPRODUCTION.csv",
+    "drive_id": "1iWnkWtnrZ4GgppE9pwBOrKkJZuZmgMEh",
+    "sha256": "168c6ddae00a62a28ab0f07334eff691accd1df69b6f6aab3360628bf09c55c6",
+    "size": 1551
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__GRAPH_AUDIT.csv",
+    "drive_id": "1nHnWEFog51y0azCA2lfOi5GROdOEFF1b",
+    "sha256": "2e472722d07db1abe2c23576cc10449aef6e3c507cc275eb8f09ff8c1a7bd608",
+    "size": 713
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__CALIBRATION_AUDIT_PASS.json",
+    "drive_id": "16IGnQaYVvUdqwPcaIimJ_KbYRcMNtpXv",
+    "sha256": "a416d6943448ecc99f1d9e3db107c0381eb4287ba4601148e204c50cf88ff6d4",
+    "size": 532
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__FROZEN_TEST_PROTOCOL.json",
+    "drive_id": "17CZKwqhiJEPL1satc9MZ_WIwSAzYo7bZ",
+    "sha256": "5ea0ea0a2e9296ccc0069e646de7ddf091c45fd1eed81011ce75f1d0abb961dd",
+    "size": 1429
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__TEST_RESULTS_9_RUNS.csv",
+    "drive_id": "1nlP_juJPlQZZesS0Jixaq6U0I_ueh1X0",
+    "sha256": "ceabe19331a131dd46a5c7154a231b4884b806b0730e75861379ee9881d2411f",
+    "size": 791
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__TEST_SUMMARY_MEAN_SAMPLE_SD.csv",
+    "drive_id": "1SwOBjYWtaImQujR7nHkcX5uUP6ZeDmit",
+    "sha256": "e9da6bfea63d75e1f6b73578885542fd87fac6d7b9757d4abd05ac1e303c9bc5",
+    "size": 495
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__PAIRED_MACRO_F1_DIFFERENCES.csv",
+    "drive_id": "1LL82lXSlhAoo56a5dNq-qrW1bzs6gyWE",
+    "sha256": "5cbaf6145347c70d6150b5041893bdb05f5aa810fb4cf390bf07eec8e5631cd3",
+    "size": 386
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__TEST_EVALUATION_COMPLETE.json",
+    "drive_id": "1QVc6Y1JaMiDab9iZkowyBkeRJXFcuw4M",
+    "sha256": "b1d6d4d30d11a0c2f4990290ee8d2139b5f8862180e5514db72b06838a2da30d",
+    "size": 388
+  },
+  {
+    "path": "private_supplement/05_RESULTS_AND_PREDICTIONS/topology__REPORTING_NOTES.txt",
+    "drive_id": "1iN0IUXmm50qcUktorPQFXJoDfoFdWWer",
+    "sha256": "d40176e46e5f73e7344853a0c6d9ba6dc61d7a8618c9ecbf190c3c586c72464a",
+    "size": 1326
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__per_split_interaction_target_consistency.csv",
+    "drive_id": "1lCN87_y70ToX4pBQgjLdF3oRgH3k1Rsc",
+    "sha256": "305570ee57c960b6c8c1a82b9fe9b0a60f4995ffef5d19790b714b6109447820",
+    "size": 21578
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__cross_split_interaction_target_consistency.csv",
+    "drive_id": "1crkzrOdlgh6ji8ybYLU2Tp8fnXyk1-jH",
+    "sha256": "d289627360216a68dbef7f5f8e3088e2e5646481320cb6651ae9174fffdfac90",
+    "size": 6807
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__cross_split_conflicting_classes.csv",
+    "drive_id": "10Y7BQPJH6D-3FVnN0o4EsbKnxxOvzwYF",
+    "sha256": "1542b62bcb68ff0df31fb2cc24466b59ebf74ac38da9f50ae54158ef93fd1c3a",
+    "size": 54
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__train_directed_pair_label_duplicates.csv",
+    "drive_id": "1CBWc6exNkOk9oIUA3ePQjmrmYmzGEudj",
+    "sha256": "271ac2a96a1a8589fc0278bf18757b3f480f690113df69fd0db2af9fbdcd6e82",
+    "size": 75
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__calibration_directed_pair_label_duplicates.csv",
+    "drive_id": "1tySyx1vw2wLhM5yV-sMG1Ag6p5hOmPov",
+    "sha256": "271ac2a96a1a8589fc0278bf18757b3f480f690113df69fd0db2af9fbdcd6e82",
+    "size": 75
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__test_directed_pair_label_duplicates.csv",
+    "drive_id": "1NXBFLlXN-9wY88hB3wC2Z6u_fk0NXihH",
+    "sha256": "271ac2a96a1a8589fc0278bf18757b3f480f690113df69fd0db2af9fbdcd6e82",
+    "size": 75
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__directed_pair_label_duplicate_summary.csv",
+    "drive_id": "1npXOr-LEpEpJLg0zpUdgwRhRbXhh5OQ7",
+    "sha256": "2607b636a3d77be4e08ed3254d6815f4d094eca5aadeeda924a88a7c91b99f9c",
+    "size": 117
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__cross_split_directed_pair_label_overlap.csv",
+    "drive_id": "1VsoAsmDdH_szX01oV8BPkoudnZaxTBGR",
+    "sha256": "7191d1b972b4c6a356f5caa53c848618ad4cd4372d45cf831cccf68ac00f27ec",
+    "size": 100
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/side_annotation__FINAL_unique263_consistency_summary.json",
+    "drive_id": "1-XynULz_iiFkxMgnDWFBe4HdtIDG2MqY",
+    "sha256": "41ee72e5611db13c95de0d4950f74dfe29174bf2069bce9e918c1c27f6c41f84",
+    "size": 295
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/final_unique263__label_support_by_split.csv",
+    "drive_id": "1uL9xRpPUkcp_pPr-O89kzXYUZ7O5uk-k",
+    "sha256": "de695b568b4468e163eeaddd48760845c06946a0ae3c899a3c66e5e02cea7610",
+    "size": 10984
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/final_unique263__feature_metadata.json",
+    "drive_id": "1gqWel3ulCMR4PI1rCKaSVXneBiBkdPgy",
+    "sha256": "844e39ad72833922291f194afd5992d414350fd0ea5f786e64ec1c4444db383a",
+    "size": 771
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__graph_protocol.json",
+    "drive_id": "1WmfCND2K0LAjEGLNY_c29Y72Oaee348K",
+    "sha256": "2b0f4af9fadcd35109e43923577f7a13228a7b0659ddacf6b0512cac07f93197",
+    "size": 693
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__original.npz",
+    "drive_id": "1sHPIDOHL28gWqsDTZN0FEUCOnmE-iCxw",
+    "sha256": "7c1296254bb063f89464f42e0d2b7f09a25833661a59b82ce3b4ded0aca60902",
+    "size": 581202
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__self_loops_only.npz",
+    "drive_id": "1M0-Y_rj74Sop4VJoe2lO_HMu13DwRUtG",
+    "sha256": "76a4f8a9803fab8c95650b95a26b0e9e017e241e22ddc26e6567cb9cf99e016b",
+    "size": 3283
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_42.npz",
+    "drive_id": "1T7-kpQu50nE5_Xf_Cg4rTbTiQ9YikapB",
+    "sha256": "6fbb57b5d27d6b657d034cd3653fd81651c3564597a50f7f862046d2df43f8b1",
+    "size": 650866
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_42_audit.json",
+    "drive_id": "1vNbW93kUkPVaFGta1IpmiYB0KuwV9eqk",
+    "sha256": "c62be80df077a430deb0d016f650a2edf3f0873a18f52fb8044a1c8e5a1fab65",
+    "size": 149
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_43.npz",
+    "drive_id": "1dReN-904-PuiT7tkcbTO2ufcMxgmUus0",
+    "sha256": "b41ac2116b166409ffb514b95427cd0564f4adcf490726e16e722cdea46cabce",
+    "size": 650851
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_43_audit.json",
+    "drive_id": "1u5hkHqo_tULAQlnQTbiSk2Yv5-uoigYY",
+    "sha256": "7e93401e2fcab5c7ffe3b581725f0cf6bf27b7e6d9352e4e6e3860485bd408d5",
+    "size": 149
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_44.npz",
+    "drive_id": "1EY01hMrMn3spEEpVlhJDq_q-XIJgzz0O",
+    "sha256": "4f6afc96f2daea82f5d690a95e0ea9284ee4c9daa7a084e5306caface004f559",
+    "size": 650691
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__rewired_seed_44_audit.json",
+    "drive_id": "1UbSY5nxypfWGb4qPmgh8c7QSnMOCT1Cx",
+    "sha256": "50b64ec26279a3295db66a480fb65769bd50e6008eda4d6671d7ef2e2e133f32",
+    "size": 149
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology_graph__graph_audit.csv",
+    "drive_id": "1FDYEjUcsrTqeQZ7naaH4FVkUmIvqfmII",
+    "sha256": "a3d8c0de14d1f727882b94828232267b42cf0cbd2e50618f58d6320d066a0180",
+    "size": 276
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__build_identity.json",
+    "drive_id": "18dA9YxvRTZ3-4nVLc3JKv2RuPRWTa9OC",
+    "sha256": "31399036a440cd9932a0398a65bce6656aca4bc29849d6ac6c50e2da03ca0062",
+    "size": 5495
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__descriptor_preprocessing_audit.csv",
+    "drive_id": "1tv5oG-KdAQuNf-6zixhyyLnUgoVxU1bd",
+    "sha256": "0db94cb70c3e25a5250aea0fb3e4036db8b981a9a8054eebfd346b085154477d",
+    "size": 10550
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__train_pair_indices.npz",
+    "drive_id": "13FWdOsm1OKn9N_sbkJwnIT2625fNiTjh",
+    "sha256": "ab1b974c898ca5023538226fbd0c467191cb46aaa2e04d65f6001c5942b0b0fb",
+    "size": 529859
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__calibration_pair_indices.npz",
+    "drive_id": "1fwsFuaTDdNCoScSX1ZeoSSrciql6tD9N",
+    "sha256": "3aa8a4d7022d67584b51785abd2124080a6d4dea599958a5643b082bb5616e1c",
+    "size": 114650
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__test_pair_indices.npz",
+    "drive_id": "1RFVOT8jxopFbwXPWBFtNQgNkDkj_LYaO",
+    "sha256": "665faceec2334c42342bb159818e7d9cda0c92d10990446fa80617506b54db72",
+    "size": 114691
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/topology__FEATURE_BUILD_COMPLETE.json",
+    "drive_id": "1Cpc6gn6uY3JpW8z9CAjtCykS0EWs32UC",
+    "sha256": "e41c7395f8c34f3bceb610f2eec70f3a8005847fbc0a5e222eaaf287e668c98a",
+    "size": 696
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/morgan__meta_fit_calibration_indices.npy",
+    "drive_id": "1gyOABjuGH70YU3kobRqb-DWa5J4kLSMF",
+    "sha256": "6b6f21b2b9acaaa9b7b4847c53091afe284e765ca2513681e9653154944f8f1a",
+    "size": 172736
+  },
+  {
+    "path": "private_supplement/04_SPLITS_AND_AUDITS/morgan__meta_select_calibration_indices.npy",
+    "drive_id": "1-aLP-hn3M0Ci_4-ulpdWn2yOIKY6zEUb",
+    "sha256": "769b41667c0e4063fb22cc7129cd6a8421c305ba5a8c1761db7b0026959d83d2",
+    "size": 57664
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_INTERACTION_MASTER_84.csv",
+    "drive_id": "1nX2a4LfX8xLXdzaV-QKVWbOxQj2Ye08v",
+    "sha256": "2eb58c5a1af741613df7a34f6b9e2f0c16ee5d05f8d1c7ac63628ec7f162800a",
+    "size": 16890
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_MEDDRA_CANDIDATE_MAPPING_217.csv",
+    "drive_id": "1ppkd0DQyb01WzbVqsh7NB3Tfy-dEwDnW",
+    "sha256": "96a310ad21089b536766b036f6029cd8339a92a58e130c447c72c0cba4e95355",
+    "size": 85957
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_CANONICAL_AE_CONCEPTS_217.csv",
+    "drive_id": "1DMRYDdLTGtnQS4Cs5OTHb3A-suQ1vIag",
+    "sha256": "164eb2e813ef8a35463493c8263c2f3f2a50abc150738f8b9d8d49f10a0abf1f",
+    "size": 35056
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_VALIDATED_AE_STRINGS_236.csv",
+    "drive_id": "10K0CkNZGpcSuve_ZHrVh7knpMYFMEDQM",
+    "sha256": "303cee955b7592670bf6c9ce9e8c813a2c2a9bf630de607bdac3a82e50721997",
+    "size": 31615
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_EVIDENCE_RELATIONS_424.csv",
+    "drive_id": "1-uK2ZrNYF6kV3h3PLb0Vk2q3KwSiL2zO",
+    "sha256": "06dc7c717ba5ddde3b6283ce796c2a5e0ff779a853887996aa415700920b3a84",
+    "size": 193402
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_MASTER_263.csv",
+    "drive_id": "1mqLlqPR2OOXHcp9ceDlo1RAd77DuFz0J",
+    "sha256": "09ef48d87cf415d7e17f355c68443d22a794b4d1f580ede377bf1bbafff8aa87",
+    "size": 68776
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_AE_RELATIONS_340_WITH_MEDDRA.csv",
+    "drive_id": "1HjGzjVkV3Gvc0m13ED2ijDyak2-vmFFo",
+    "sha256": "d4447d2c75168e487025237537bcda6e2305b646c3ff271fb1d6eaaba5ff4ad5",
+    "size": 271428
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/FINAL_V8_MANIFEST.json",
+    "drive_id": "1o9fwYc9aeZGG_sAAGNO6B9Z66eP09-Ah",
+    "sha256": "46f0b9a4a9ae61a9bc918461aa3029c79f9c32914188a2b4332f3d2393381d2f",
+    "size": 685
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/DDI_FINAL_Clinical_Effect_MedDRA_Evidence_Package_V8.xlsx",
+    "drive_id": "18PbLfaa8T6Iqr6OFkqW9A4iXCF7nBX-a",
+    "sha256": "c70c82b6267252f97e3b92853c6c0887349743f9351ce42029b9dea40395b5d5",
+    "size": 273351
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/source__interaction_labels.csv",
+    "drive_id": "1jZ1tAHz357Z-0KT3HG-8o-Y9SsTnrYbe",
+    "sha256": "942e336bde67b0efff6b0de4849003def1e464e0db0b9ddc2b0809f5a47418ad",
+    "size": 6509
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/rebuild__label_mapping.csv",
+    "drive_id": "1TEYybv5dFU6iqyw2V29zsnoPkiEIGDoT",
+    "sha256": "aa0b07d9fe9b5d7d7563bee1da52a4024f52de6ff7b5b20cebe0a672407892e7",
+    "size": 6349
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/topologytraining__label_mapping.csv",
+    "drive_id": "1oL5kjvbkUm4MphZrgORCCfYfV7DnSmVb",
+    "sha256": "aa0b07d9fe9b5d7d7563bee1da52a4024f52de6ff7b5b20cebe0a672407892e7",
+    "size": 6349
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/final_unique263__label_mapping.csv",
+    "drive_id": "1bp6V9Xe0LwZpfExtK0oSAyeHK_nMGuPL",
+    "sha256": "6e3f0c15a47a92a5d27ad8847b3f61e4a4e5856e20c9d700e5dd635fb404ddbf",
+    "size": 8017
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/label_mapping_263.csv",
+    "drive_id": "1Xh3V_IlLfbORRROmOiARbXW88QdRBwFK",
+    "sha256": "36554707e2696658e1d5dd65984d4394327e01c33b1090a8456209e5c7fa184a",
+    "size": 9189
+  },
+  {
+    "path": "private_supplement/03_MAPPINGS_AND_PROVENANCE/interaction_class_86_to_84_audit.csv",
+    "drive_id": "1j63krphGRfljUXYoMhsgySmatlpNOV37",
+    "sha256": "465c85e4452fe01a1ed7735e736ff8037a380dd8c3ec950b7961d9c90feec091",
+    "size": 7775
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side44__training_config.json",
+    "drive_id": "1d4Fj21PLs6Gmsfl_vTdHmpykskYoG8xy",
+    "sha256": "f338424277e10f201ef5982524f31199459c9a1a798863b576df1f7a6e76b134",
+    "size": 797
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side44__training_complete.json",
+    "drive_id": "1QgW85wzq5Ry2gViAVktA2lvAcBImG-qi",
+    "sha256": "a370ec64858cf86e7bd8e108b57160190a9a016ba5c1968a82f572db0ce7037c",
+    "size": 268
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side43__training_config.json",
+    "drive_id": "1TpsuoWVmXLIObfniRawaFWeGS6DgSwcE",
+    "sha256": "2658c03cd72487f386fce8929fea207e27a4a01e6ac317f04179e3c01c1cd7ac",
+    "size": 797
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side43__training_complete.json",
+    "drive_id": "1ZhkHYQ_TrsIcWosHthO_OItQ-meXQFkn",
+    "sha256": "47dc0e63d9b0ef98dc9ecc595248fa8eabc9afd6c86a6e2da1e03012d3d201e1",
+    "size": 268
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side42__training_config.json",
+    "drive_id": "1NkpvhhN35Zn3tPKFX7LQJZT2xxxZRE4P",
+    "sha256": "09eda55e98202e619a94aaa11005edf35a3dccbe71e51f89329df29c1e536d4a",
+    "size": 797
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/side42__training_complete.json",
+    "drive_id": "1ykstiw8MxFLndptXK-1g-9GWRI_uQbTF",
+    "sha256": "310af511cbda3c7deab2aa3251a84fdfba09444a419d959d702bd2e56f030d46",
+    "size": 268
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_42__config.json",
+    "drive_id": "1LEYjsXt55jB7LVz17yqedUYpiu8_SVbG",
+    "sha256": "fa2fcd266cfdff3777169024763df6057bc62bf9c035aba07d786a5387d86bb9",
+    "size": 4078
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_42__training_history.csv",
+    "drive_id": "1p6Ecbv7fzHGxoMAW2vs0N9tHwplUeNpi",
+    "sha256": "b1a3b1b327c9a099d8a3f3a81a8e9123ed0f98d99844a69ab02ea4164fdf7ae7",
+    "size": 12577
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_42__TRAINING_COMPLETE.json",
+    "drive_id": "1BOnmncnLTGc0BTDf1xBwolqviI4tWWUd",
+    "sha256": "3d079d8a5988e396b2baf0852e2353a1eb64991718266d5c61b44d35976ebd95",
+    "size": 549
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_43__TRAINING_COMPLETE.json",
+    "drive_id": "18XxzVEhlq8cLG_HagRA29YvpPIuI0n4Y",
+    "sha256": "a9b395a808c8079223b13841dc83067a221c1c6339344f2ee9172fe8fc56dd0c",
+    "size": 548
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_43__config.json",
+    "drive_id": "1RdZIHLfZ0Akk-0-0amEaUMOL4U8iV26v",
+    "sha256": "b104c96dc0212d53024a64da4ae383ef9e9f1c63d6bbd7ac2d136cf9c225f2e3",
+    "size": 4098
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_43__execution_segments.json",
+    "drive_id": "1Io2CLUs2V4aKtvcTCDRzYc58KScnyU-g",
+    "sha256": "d236a6a8fac7e31ecfce763509a6fe3793d56f1388533586a316c73d43702a6e",
+    "size": 506
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_43__training_history.csv",
+    "drive_id": "1ghoRt3R27tWxqaGSScHceugHO1JIA45I",
+    "sha256": "8aa9221c05b109e8c695b7fc98cf00c20a002d5c2521129883565dd63174fafe",
+    "size": 12620
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_44__TRAINING_COMPLETE.json",
+    "drive_id": "1SQEnWTOPF-vw90MFXgVFQOPKf5rERtEO",
+    "sha256": "891070b633e0c34ad10bf3f406d7de9aab493912c1102c62114154a9e33a03cb",
+    "size": 548
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_44__config.json",
+    "drive_id": "1HelxG_35ti0cQRanjoR4G9mQnOQ2hj-6",
+    "sha256": "3e75167f2024b9f29e8b320f878485488181d0924c9db9893722563bca6d37db",
+    "size": 4098
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_44__execution_segments.json",
+    "drive_id": "1GeaXVuMnQyGVArZVTT0EBY5iytnK5CfB",
+    "sha256": "6757953052c23b9cd5b9d86e0ffcdf0d7575b3993210cdec6559b720297c5cfb",
+    "size": 506
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/self__seed_44__training_history.csv",
+    "drive_id": "1Im7UZ1KOIqzd3VivLjun92ocYLFNu_BM",
+    "sha256": "fed29f2a8f50d72a44cf5a960c631465889e9325e6fa697b2a84877ff185b47e",
+    "size": 12613
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_42__config.json",
+    "drive_id": "1wU5xXNmau-m74T65zRDfVqlcKmHho13t",
+    "sha256": "bf00f6d344eb7bc426d973bd21b1800afe0d6cfd3455a1a8a5d04f1a4feb974d",
+    "size": 4070
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_42__TRAINING_COMPLETE.json",
+    "drive_id": "10SSN18sNQJXpKttQ35lVW7iy2vIl8mTi",
+    "sha256": "d62c4f48ba88c028314bbf802a917e0656af870c777dfb9f0c31d17a2fe2980b",
+    "size": 540
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_42__training_history.csv",
+    "drive_id": "1bPmFBz6y_7iQsdVBA4jlXCm7SHGG_ZoX",
+    "sha256": "f066ad26d83502afd851dfa871ecffcf01863079c90aeaf0c646e58f2c09bb71",
+    "size": 12571
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_43__TRAINING_COMPLETE.json",
+    "drive_id": "1F61SIAIB3qHG8Gh1tagyn7-XlwfIeNQE",
+    "sha256": "9955ecb78310243e85a77f15c58bac0d9c91d694d276482b539bbd09ddd0f591",
+    "size": 540
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_43__config.json",
+    "drive_id": "19pClyrlHt6zLSyZlAz3KQuhlaQX2VzDq",
+    "sha256": "5dbfd381a405aeafbe2e7bdf46240368fd6a5d4aefb8e292258949883d44bc5a",
+    "size": 4070
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_43__execution_segments.json",
+    "drive_id": "1ommTgNQ_Uzh0YPBFGiwH8sxz0yVl-XS4",
+    "sha256": "17fc2999bd33f206d8cdc514107661f902b91d9ef21cf2d4afa1489aa86a7660",
+    "size": 506
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_43__training_history.csv",
+    "drive_id": "1NBSfo-mvJ0flzBTiV05cy0pm6_EzZPQ_",
+    "sha256": "9cd3151820c7716c978013ae4467aec01eebb0c959a69ef8a07f51db103b5190",
+    "size": 12586
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_44__TRAINING_COMPLETE.json",
+    "drive_id": "1QPNtD8j0MEz1ItSIZF_M2AlHSs2KaLhO",
+    "sha256": "66d42103312b3c23a6fcb711973fbdd03c010cc370bb39e421aa4c8b2deb80cf",
+    "size": 540
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_44__config.json",
+    "drive_id": "1qGCZzv2RkTLvHK--c_PIs33YNSsLvqxn",
+    "sha256": "def94a7d0fb0b6e43de6c77c5abcf9ac7393be29a5880dc4581cbc17c1d84c7b",
+    "size": 4070
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_44__execution_segments.json",
+    "drive_id": "1UAMEmag8o1Egjv0qCnDrYn-9300EyaNE",
+    "sha256": "271eedf9dfa571cc0f6c02c32fbf50703b9e9c0dd3406cf3aa4edf2629dba139",
+    "size": 506
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/rewired__seed_44__training_history.csv",
+    "drive_id": "1KS0qprw5275e0amNOh4UYsuF3BJWHEk9",
+    "sha256": "f8a6dcd66b09334ea1752e474fb2e79c02c0a5bae237fcb9e345f6dc8aeb2544",
+    "size": 12599
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_42__config.json",
+    "drive_id": "1XEeppZmKu6L3fePLLUNfMPapqZcbN39C",
+    "sha256": "f2dd82554561c71a8a8eafa0531634dd480917cfe79690376b825c945b1ce07b",
+    "size": 4071
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_42__TRAINING_COMPLETE.json",
+    "drive_id": "10ogQimHZvaOBcvDBHpki6446j6KZWJsE",
+    "sha256": "5eeb511c5cca3ff10ba24a415c94fc7e146b6c57f93d38b4eb7dbf9a9e9561d9",
+    "size": 541
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_42__training_history.csv",
+    "drive_id": "1cbRMP5ypCjCCUn93EEi3FJMEyXjS29AI",
+    "sha256": "1deacccdd940325597457070c2db7941a8a40818c2a01bcceeeddc6e980dcff7",
+    "size": 12626
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_43__config.json",
+    "drive_id": "1sX2X30Kv50fyNKTKZ5lARB7a6ExmUvi5",
+    "sha256": "80d86dc8dd98084e780d0ab5e31bf3693ae88c4d8674955f24f7609839268017",
+    "size": 4071
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_43__TRAINING_COMPLETE.json",
+    "drive_id": "1jrLxmMj_8RTyBM296_DfzIgr9I9_NZDE",
+    "sha256": "0c2ccfac42221264ff398c9b3e0990bd3cc64d24c208520f82b5d53144c021db",
+    "size": 541
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_43__training_history.csv",
+    "drive_id": "1iN6pAQF6nJu-OGkuS2s2EFiy1HjQGpkl",
+    "sha256": "2ad5b846653ce568aad2efd2704df08e6fa2af47c96888fdae3f285b8d7a6357",
+    "size": 12610
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_44__TRAINING_COMPLETE.json",
+    "drive_id": "1ljqaFmLcfY--vu8iCBr2JRxDFkFUbj_M",
+    "sha256": "f0f367983998039056ebb88d3bf28301ab293ba9b7a03d894942f68ecf77f44a",
+    "size": 538
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_44__config.json",
+    "drive_id": "1Ba9QXS9KwUdRRr41PIa_t-ZHs9UkPp6k",
+    "sha256": "6b7d0a0c9de061c01a2f9899b7324a018c38b357645c450b476f230e8aec07ba",
+    "size": 4071
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_44__execution_segments.json",
+    "drive_id": "1z9XiW4NXtf7HTLb7Ku_fN71aJqZ_PuiM",
+    "sha256": "2afeaea261d42a19292aa75838eff1ec8ce3f96e1ce48a1eafc54df0ca9a0bdf",
+    "size": 506
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/original__seed_44__training_history.csv",
+    "drive_id": "1M-j-UNm7ExswTzPlkZmjpzPsLngIi_2P",
+    "sha256": "af21b093160e11bf68a6dd840ad03f1b959d837c5f40cb2db4e68258bf11caaf",
+    "size": 12630
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/morgan__config.json",
+    "drive_id": "1I_hxC0OrEjLwNQhaqSOWPVxuxY4csQSk",
+    "sha256": "f34f9dcf4265786b1788c14e056b876d8f19a1643f08732cfe2741a4a8ff7c7a",
+    "size": 1466
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/morgan__class_order.npy",
+    "drive_id": "1G3iP2hQpg6G68WQ8kdqh2gfyTAXajWcV",
+    "sha256": "7397288c5812289f8fa489fd80d4cfba8f497cf22870003222a845d668fb5fa4",
+    "size": 800
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/morgan__protocol.json",
+    "drive_id": "1gttw1qC6bH9ZNMq6tb5jiW9WUgMTfC8K",
+    "sha256": "4945532c77d0e585239c14b5ba296a9be5c8499cccb1256b1b3255d0c2de2e7e",
+    "size": 834
+  },
+  {
+    "path": "private_supplement/02_CONFIGS_AND_PROTOCOLS/morgan__MORGAN_3SEEDS_ALIGNMENT_AUDIT.json",
+    "drive_id": "1-mFsMYVf2oxfcVg4EiDvr0uzVRZUHBjj",
+    "sha256": "cf6fa234ab265be4c6bf17364143bc78307c3ab28cb9d04daff000241e92bfc5",
+    "size": 455
+  }
+]

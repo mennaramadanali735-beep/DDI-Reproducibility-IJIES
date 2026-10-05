@@ -1,0 +1,8 @@
+# Partial record: Python 3.13.15
+lightgbm==4.6.0
+# Required imports, versions not recorded in the selected side-effect config:
+numpy
+pandas
+scipy
+scikit-learn
+tqdm

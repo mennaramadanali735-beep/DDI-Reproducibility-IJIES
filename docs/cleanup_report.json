@@ -1,0 +1,110 @@
+{
+  "notebooks": [
+    {
+      "notebook": "gcn_exact_cache_reference",
+      "source_cells": 21,
+      "arabic_comment_lines_removed": 0,
+      "noncode_notes_converted": 0,
+      "outputs_cleared": true,
+      "source_sha256": "184d56c41c5910741c72368bad06440b73f7841b04490d0a51a2730fac72c2a3"
+    },
+    {
+      "notebook": "interaction_ensemble_history",
+      "source_cells": 69,
+      "arabic_comment_lines_removed": 32,
+      "noncode_notes_converted": 1,
+      "outputs_cleared": true,
+      "source_sha256": "1b24779a8b1faab1941879c68240f4f6989312897f89b9c32a05352a1d948685"
+    },
+    {
+      "notebook": "side_effect_and_baseline_history",
+      "source_cells": 90,
+      "arabic_comment_lines_removed": 35,
+      "noncode_notes_converted": 0,
+      "outputs_cleared": true,
+      "source_sha256": "3a11c8091fba2c6c9bb70561fe99f8d3c7abcafbe99d84e027f645fa57b27c52"
+    },
+    {
+      "notebook": "side_effect_audit_history",
+      "source_cells": 41,
+      "arabic_comment_lines_removed": 0,
+      "noncode_notes_converted": 0,
+      "outputs_cleared": true,
+      "source_sha256": "bfb0ceebc045655b310e33ff25cec85589e191a3e387e0f975e617b252a06d40"
+    },
+    {
+      "notebook": "gcn_extended_history",
+      "source_cells": 37,
+      "arabic_comment_lines_removed": 4,
+      "noncode_notes_converted": 0,
+      "outputs_cleared": true,
+      "source_sha256": "5beac37e003e2bc2683201a517cf2c30a90fea54e9bcbd3a7d95e7fdf16b4c5a"
+    },
+    {
+      "notebook": "topology_history",
+      "source_cells": 37,
+      "arabic_comment_lines_removed": 50,
+      "noncode_notes_converted": 0,
+      "outputs_cleared": true,
+      "source_sha256": "29af1c5c84b28e626decf54f9506489d44a2335906955b20641cc513884191ce"
+    }
+  ],
+  "recovered_scripts": [
+    {
+      "path": "scripts/recovered_cold_start/mhafr_molecular_inputs_20260909_080922_195417/build_molecular_inputs.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_molecular_inputs_20260909_080922_195417/build_molecular_inputs.py",
+      "original_sha256": "d5dbd322a3387d779298c8c1ef5880377fc2891938262599e72d0af895b7c72c"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/classify_seed42.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/classify_seed42.py",
+      "original_sha256": "c200b1bee46d7e38ac405606dddb1a311a003af2c9f6253f0aa310a82a7cce5c"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/classify_seed43.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/classify_seed43.py",
+      "original_sha256": "89ea9cca24a461cb45811c9980111c590fce382d6dcafa077e36e114b1ca109b"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/classify_seed44.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/classify_seed44.py",
+      "original_sha256": "7673f9e94120a38c94d7bacff8e09d895e89b25f9c293d8fff99e94b4572e5f9"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/extract_embeddings.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/extract_embeddings.py",
+      "original_sha256": "83ad47dc7973ed610c08431182905e65fda2b53e15f03b1a71eaa33473804098"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/pretrain_seed42.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/pretrain_seed42.py",
+      "original_sha256": "691601c87824e178dfabf97f4da882f5a1313e5c4b63fb8cf32f2335b80d41cd"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/pretrain_seed43.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/pretrain_seed43.py",
+      "original_sha256": "3b6fcbf5bca636fdcba7ae15e2c42bdd5d8792f4258b1985f6353d3f924dedde"
+    },
+    {
+      "path": "scripts/recovered_cold_start/mhafr_pretraining_v1/pretrain_seed44.py",
+      "archive": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy.zip",
+      "member": "DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544 - Copy/mhafr_pretraining_v1/pretrain_seed44.py",
+      "original_sha256": "84d52a9c63d522a31886df61debf7a1342737a461c0c6e54586045e089bd86ba"
+    }
+  ],
+  "selected_workflow_notebooks": 13,
+  "additional_changes": [
+    "Split one concatenated import line in historical notebook cell 45.",
+    "Pinned selected unique-263 training installation to LightGBM 4.6.0.",
+    "Converted one non-code narrative cell and rewrote one Markdown narrative note."
+  ],
+  "additional_topology_training_runs_recovered": 5,
+  "topology_training_source_coverage": "9 of 9 runs; original self_loops_only seed 42 supplied and cleaned"
+}

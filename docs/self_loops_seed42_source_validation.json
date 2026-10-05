@@ -1,0 +1,31 @@
+{
+  "source_file": "Self_loops_only_42(1).py",
+  "source_sha256": "38307aaa82a33e418da8ce15607c279ffdafb619e882d752a70af951e6d4c515",
+  "clean_sha256": "a7a74602535837ab970e45a2347bdf09eba0a8dfa7591d06d8d13a825861af0f",
+  "recorded_config_sha256": "fa2fcd266cfdff3777169024763df6057bc62bf9c035aba07d786a5387d86bb9",
+  "matched_static_config_fields": {
+    "protocol": "current_node_bn_v2",
+    "condition": "self_loops_only",
+    "seed": 42,
+    "epochs": 120,
+    "batch_size": 512,
+    "optimizer": "AdamW",
+    "learning_rate": 0.0007,
+    "weight_decay": 0.0001,
+    "gradient_clip_norm": 5.0,
+    "early_stopping": null,
+    "scheduler": null,
+    "primary_selection": "calibration_macro_f1_all84",
+    "tie_rule": "earliest epoch",
+    "BN": "current full-node statistics in train and eval",
+    "BN_track_running_stats": false,
+    "BN_node_scope": "all 1705 fixed nodes; transductive",
+    "descriptor_preprocessing_fit": "Train nodes only",
+    "graph_source": "Train edges only",
+    "shuffle_seed": "seed + 100000 * epoch",
+    "test_evaluated": false,
+    "bitwise_GPU_resume_guaranteed": false
+  },
+  "structure_and_numeric_constants_preserved": true,
+  "training_or_inference_executed": false
+}

@@ -1,0 +1,23 @@
+{
+  "status": "development_split_prepared_not_trained",
+  "train_path": "/content/drive/MyDrive/DDI_V2/clean_train_split.csv",
+  "calibration_path": "/content/drive/MyDrive/DDI_V2/clean_calibration_split.csv",
+  "train_sha256": "8bb9be85800b42f07f691fc67b926979b9c5012640250a9c7600674001120b55",
+  "calibration_sha256": "4701b83998ff42ee6f4c259765589b114dc534f4523a0eabc6f42575e8974852",
+  "train_rows": 134249,
+  "calibration_rows": 28768,
+  "meta_fit_rows": 21576,
+  "meta_select_rows": 7192,
+  "internal_split_seed": 42,
+  "planned_training_seeds": [
+    42,
+    43,
+    44
+  ],
+  "singleton_classes_fit_only": [
+    54
+  ],
+  "test_used_in_this_step": false,
+  "historical_test_previously_used_for_selection": true,
+  "note": "Exact-record overlap checked. This does not establish drug-disjoint or scaffold-disjoint evaluation."
+}
