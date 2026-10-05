@@ -1,0 +1,58 @@
+{
+  "protocol": "test_both_nonchiral_scaffolds_unseen_in_development",
+  "rdkit_version": "2026.03.6",
+  "scaffold_definition": "Bemis-Murcko; includeChirality=False",
+  "empty_scaffold_policy": "Retain empty string as shared scaffold key",
+  "source_folder": "/kaggle/input/datasets/amiramohammeddd/ddi-unique263-cal-test-stage2/DDI_V2_SCAFFOLD_DISJOINT_84_READY_FOR_TRAINING_20260906_2224",
+  "source_sha256": {
+    "scaffold_disjoint_train.csv": "89e3a063129977b38b5c8aa644b7af7b9bf874c9851ef106ec5dc5e2a625f603",
+    "scaffold_disjoint_calibration.csv": "829eaef3e9ec7f7f92016e11c2170b4d85f8cbb5263765bbf46e708eccd01398",
+    "scaffold_disjoint_strict_test.csv": "8bdac9441ced74e0ff29eecbbdab1aa836600f43677ace6b1e17f22864917a09"
+  },
+  "splits": [
+    {
+      "split": "train",
+      "rows": 91477,
+      "classes": 84,
+      "drugs": 1276
+    },
+    {
+      "split": "calibration",
+      "rows": 16151,
+      "classes": 83,
+      "drugs": 1173
+    },
+    {
+      "split": "test",
+      "rows": 11142,
+      "classes": 56,
+      "drugs": 370
+    }
+  ],
+  "original_test_rows": 12242,
+  "excluded_test_rows": 1100,
+  "lost_encoded_label_ids": [
+    1,
+    33
+  ],
+  "isolation_audit": {
+    "train_calibration_canonical_pair_overlap": 0,
+    "train_test_canonical_pair_overlap": 0,
+    "calibration_test_canonical_pair_overlap": 0,
+    "train_test_nonchiral_scaffold_overlap": 0,
+    "calibration_test_nonchiral_scaffold_overlap": 0
+  },
+  "old_scaffold_columns": "Preserved as historical data; use scaffold_nonchiral_1/2.",
+  "preprocessing_status": "not_built",
+  "training_performed": false,
+  "historical_reproduction": "Counts reproduced; identity with missing historical corrected files cannot be verified without their hashes.",
+  "saved_csv_sha256": {
+    "calibration.csv": "30a3e393a9d268555e89f894583a66ecdfd48a8a997d03ad512d9f49e6a7b050",
+    "class_support.csv": "b5a2842d49cf32a7932fa0ad2e7e08317b9c8191f1583b864d37e1ead8d7464a",
+    "excluded_test_rows.csv": "f6b0cb07c6a441db81250ff14b235abc97774aebfa4b2422cc1b90ebf92be7a0",
+    "molecular_scaffold_audit.csv": "a5247101a1f182c58f22f902baa54d65bbcfba2c9c2af3d35630d96c782d5125",
+    "split_row_manifest.csv": "48cfa5ad6ab8e85ccddbbb00dfe7478a842be95fde18f5b431f3af957983d77d",
+    "strict_test.csv": "4b1a4ab2c82775c8815153072812da2c15628915010970f4d4f58d5da89b7d4f",
+    "train.csv": "4ffbb76fe15bfc29b6c4736d2bae0f704c856cc0fca1834c3653f2762e6a52f4"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "source_split_hashes": {
+    "train.csv": "4ffbb76fe15bfc29b6c4736d2bae0f704c856cc0fca1834c3653f2762e6a52f4",
+    "calibration.csv": "30a3e393a9d268555e89f894583a66ecdfd48a8a997d03ad512d9f49e6a7b050",
+    "strict_test.csv": "4b1a4ab2c82775c8815153072812da2c15628915010970f4d4f58d5da89b7d4f"
+  },
+  "scaffold_definition": "Bemis-Murcko; includeChirality=False",
+  "original_rdkit_version": "2026.03.6",
+  "scaffolds_recomputed_from_smiles": false,
+  "audit_basis": "Hash-verified saved nonchiral scaffold columns; no new RDKit computation",
+  "splits": {
+    "train": {
+      "rows": 91477,
+      "classes": 84,
+      "manifest_sha256": "d2bdfd1c95b478f461d53a86e3625beb6149c0ea3bf729e05c26d564f3d6784e"
+    },
+    "calibration": {
+      "rows": 16151,
+      "classes": 83,
+      "manifest_sha256": "d1fad232ed0cd5f4183bacf9d147f405fc9b31bdc1a3036c1b2cb4a74d41bbb5"
+    },
+    "test": {
+      "rows": 11142,
+      "classes": 56,
+      "manifest_sha256": "7539ba3a1cd753fdf2f53f63d867552d221895db62f54d933ad2bc5c91abc494"
+    }
+  },
+  "train_test_saved_scaffold_overlap": 0,
+  "calibration_test_saved_scaffold_overlap": 0
+}

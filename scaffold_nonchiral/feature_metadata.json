@@ -1,0 +1,58 @@
+{
+  "protocol_folder": "/kaggle/working/DDI_SCAFFOLD_NONCHIRAL_RECONSTRUCTED_20260921_190107_430125",
+  "rdkit": "2026.03.6",
+  "numpy": "2.0.2",
+  "sklearn": "1.6.1",
+  "morgan": {
+    "radius": 2,
+    "bits": 2048,
+    "includeChirality": false,
+    "implementation": "rdFingerprintGenerator.GetMorganGenerator"
+  },
+  "registry_sources": [
+    {
+      "path": "/kaggle/input/datasets/amiramohammeddd/ddi-v2-menna-projectt/DDI_COLD_RECONSTRUCTED_TRAIN_ONLY (3)/train_only_ipc_log1p_20260908_101255_038542/raw_molecular_features.npz",
+      "sha256": "ecb9e158d747a6abd0048d4839fa769413a4be31e35a96181d0477512a3bccc3"
+    },
+    {
+      "path": "/kaggle/input/datasets/amiramohammeddd/ddi-v2-menna-projectt/DDI_COLD_WITH_MHAFR_3SEEDS_20260909_101544/train_only_ipc_log1p_20260908_101255_038542/raw_molecular_features.npz",
+      "sha256": "ecb9e158d747a6abd0048d4839fa769413a4be31e35a96181d0477512a3bccc3"
+    }
+  ],
+  "raw_descriptor_count": 208,
+  "retained_descriptor_count": 202,
+  "all_nonfinite_train_dropped": [],
+  "zero_variance_train_dropped": [
+    "SMR_VSA8",
+    "SlogP_VSA9",
+    "fr_diazo",
+    "fr_isocyan",
+    "fr_isothiocyan",
+    "fr_thiocyan"
+  ],
+  "fixed_transformation": "log1p on finite nonnegative Ipc only",
+  "nonfinite_policy": "Treat nonfinite descriptors as missing",
+  "imputation": "Training-drug median",
+  "variance_selection": "Training-drug variance > 0",
+  "scaling": "StandardScaler fitted on training drugs only",
+  "train_fit_drugs": 1276,
+  "cached_drugs": 1659,
+  "feature_shape": [
+    1659,
+    2250
+  ],
+  "maximum_absolute_value": 240.32203674316406,
+  "saved_reproduction_passed": true,
+  "historical_feature_identity_verified": false,
+  "training_performed": false,
+  "files_sha256": {
+    "calibration_pairs.csv": "99bd1855809fa7f9a439f5b44e691bcb517e9c09a4be6ca61fc502afd76bd7a4",
+    "descriptor_errors.csv": "f5d56c5de323f2bdd356d9994d3591fe1169441e444823292ff2d5cd4239443c",
+    "drug_membership.csv": "0722315396d203034449a1faca7bf80ab4904e6ce5790f20e74ace688a671f18",
+    "molecular_features.npz": "10b0e5afa39b9c508c92ea0b8af4bcaf8a1a829a938717da193443042054d858",
+    "preprocessing_parameters.npz": "463e29265268a5a0e66b65a7240d4ac8426d75d65216d0beef70e62669c608b7",
+    "raw_molecular_features.npz": "77db77576995931e4336c9a431d4641b51ccf9a6d22219ad67350b9c056105fb",
+    "test_pairs.csv": "e034823b2e92a26ae01cd3c1161e28b598adfb8fd60e3f2be90d7888a7bfb122",
+    "train_pairs.csv": "580f22c394e20da32f4562349312a14c2882a04095db6d3b3dcafdb827095fb9"
+  }
+}
