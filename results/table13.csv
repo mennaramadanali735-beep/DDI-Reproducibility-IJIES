@@ -1,0 +1,7 @@
+scope,model,metric,value,sample_sd
+"Interaction, three seeds",Morgan LightGBM,accuracy,0.939191694475343,0.0005736417220284655
+"Interaction, historical cache",Weighted GCN,accuracy,0.9603494623655914,0.0021555461539179677
+Graph component analyses,Separate matched protocols; not full factorial,see Tables 9 and 9a,,
+Side-effect individual runs,Weighted Morgan LightGBM,exact_match,0.7533949758991473,0.001886503243319819
+Side-effect ensemble,Equal weights across 3 seeds,exact_match,0.7642171857619577,
+Integrated evaluation,GCN concat 44 + side ensemble,"strict accuracy, N=4390",0.7325740318906606,

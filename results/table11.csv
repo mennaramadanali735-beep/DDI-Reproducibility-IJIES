@@ -1,0 +1,3 @@
+model,n,interaction_accuracy,side_exact_accuracy,strict_accuracy
+GCN concat 44 + side ensemble,4390,0.9387243735763098,0.7453302961275626,0.7325740318906606
+Same GCN + Train-only lookup,4390,0.9387243735763098,0.9387243735763098,0.9387243735763098

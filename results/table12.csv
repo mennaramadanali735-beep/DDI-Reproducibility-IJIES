@@ -1,0 +1,5 @@
+category,count,percent
+Both correct,3216,73.25740318906607
+Only interaction wrong,56,1.275626423690205
+Only side-effect wrong,905,20.615034168564918
+Both wrong,213,4.851936218678816

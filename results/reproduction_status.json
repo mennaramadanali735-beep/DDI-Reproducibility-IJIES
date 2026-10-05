@@ -1,0 +1,14 @@
+{
+  "tables_recomputed_from_predictions": [
+    "8",
+    "10",
+    "11",
+    "12"
+  ],
+  "table13": "derived scope summary",
+  "table9_complete": true,
+  "table9_missing_settings": [],
+  "table9_available_rows_source": "archived per-seed metric outputs; not fresh inference",
+  "training_executed": false,
+  "checkpoint_inference_executed": false
+}

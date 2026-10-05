@@ -1,0 +1,9 @@
+{
+  "selected_method": "per_label",
+  "global_threshold": 0.54,
+  "calibration_global_objective": 0.9199138018944466,
+  "calibration_per_label_objective": 0.9275513619374878,
+  "test_used_for_threshold_selection": false,
+  "label_order_sha256": "6e3f0c15a47a92a5d27ad8847b3f61e4a4e5856e20c9d700e5dd635fb404ddbf",
+  "historical_thresholds_reproduced_exactly": true
+}
