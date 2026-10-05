@@ -1,0 +1,25 @@
+{
+  "format": "ordered-record-sha256-v1",
+  "serialization": "UTF-8 compact JSON [Drug1, Drug2, Label, integer label_id]; exact strings; no molecular normalization",
+  "occurrence_scope": "within each split in saved row order",
+  "splits": {
+    "train": {
+      "rows": 134249,
+      "source_file_sha256": "8bb9be85800b42f07f691fc67b926979b9c5012640250a9c7600674001120b55",
+      "manifest_sha256": "03f7ff60702b8e3f873cdde7972841df1bb00f24bafe40cdb6164906593e6235",
+      "duplicate_occurrences": 0
+    },
+    "calibration": {
+      "rows": 28768,
+      "source_file_sha256": "4701b83998ff42ee6f4c259765589b114dc534f4523a0eabc6f42575e8974852",
+      "manifest_sha256": "4ebde78a16a8999b31069681e5fdbdb4154629a5a60cab3a454b8590f72c5514",
+      "duplicate_occurrences": 0
+    },
+    "test": {
+      "rows": 28768,
+      "source_file_sha256": "748ee14d51f056025d2e86c324ccdc7d55fdb73f91cdf131bbf847faef793a2f",
+      "manifest_sha256": "300da0434b46ef922283fd83d0160d8ab52626a1f6d74e2a613a1c9c0ccdc682",
+      "duplicate_occurrences": 0
+    }
+  }
+}
