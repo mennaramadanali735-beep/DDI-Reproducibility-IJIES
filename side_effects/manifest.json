@@ -1,0 +1,11 @@
+{
+  "train_rows": 134249,
+  "train_columns": 4096,
+  "train_feature_file_sha256": "1dc5adc2dd537fe95ef150d3ec9f82eb93ea7470ee538fb557fc59d6efb47fc8",
+  "train_row_serialization": "compact JSON [sorted CSR column indices, values]",
+  "train_identity_scope": "feature-row identity; molecular collisions are not resolved by these identifiers",
+  "historical_train_rows_sha256": "1ee9e7bdf33dbcce0341e74fd1b6855ec392a055eb506784928a09ed4364309f",
+  "molecular_train_manifest_available": true,
+  "train_molecular_manifest_sha256": "8347de233c21ec108cc0406ab2c6d0ffb625ee45155a6d05263e7565862faf57",
+  "train_molecular_identity_scope": "Exact ordered record hashes; same serialization as primary splits; within-split occurrence index"
+}
