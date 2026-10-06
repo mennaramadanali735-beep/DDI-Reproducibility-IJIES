@@ -25,8 +25,8 @@ def aggregate(frame,group):
     return pd.DataFrame(rows)
 
 def integrated(out,side):
-    primary=pd.read_csv(ROOT/'splits/primary_interaction/test_ids.csv')
-    metadata=pd.read_csv(ROOT/'splits/side_effects/test_ids.csv')
+    primary=pd.read_csv(ROOT/'split/primary_interaction/test_ids.csv')
+    metadata=pd.read_csv(ROOT/'split/side_effects/test_ids.csv')
     key=['record_sha256','occurrence_index']
     assert not primary.duplicated(key).any() and not metadata.duplicated(key).any()
     eligible=metadata.loc[metadata.candidate_count.eq(1)]
