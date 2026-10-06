@@ -34,7 +34,7 @@ def main():
     assert len(frame)==134249
     frame['label_id']=frame.Label.map(mapping)
     assert frame.label_id.notna().all()
-    side=ROOT/'splits/side_effects'
+    side=ROOT/'split/side_effects'
     identifiers(frame).to_csv(side/'train_ids.csv',index=False)
     meta=json.loads((side/'manifest.json').read_text())
     meta.update(molecular_train_manifest_available=True,train_molecular_manifest_sha256=sha(side/'train_ids.csv'),
@@ -46,7 +46,7 @@ def main():
         assert sha(folder/name)==digest,name
     for name,digest in SPLIT_SHA.items():assert sha(folder/name)==digest,name
     manifest=pd.read_csv(folder/'split_row_manifest.csv')
-    dest=ROOT/'splits/scaffold_nonchiral';dest.mkdir(exist_ok=True)
+    dest=ROOT/'split/scaffold_nonchiral';dest.mkdir(exist_ok=True)
     report={'source_split_hashes':SPLIT_SHA,'scaffold_definition':protocol['scaffold_definition'],
         'original_rdkit_version':protocol['rdkit_version'],'scaffolds_recomputed_from_smiles':False,
         'audit_basis':'Hash-verified saved nonchiral scaffold columns; no new RDKit computation', 'splits':{}}
